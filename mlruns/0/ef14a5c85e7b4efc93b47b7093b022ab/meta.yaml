@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/ef14a5c85e7b4efc93b47b7093b022ab/artifacts
+end_time: 1712645736362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ef14a5c85e7b4efc93b47b7093b022ab
+run_uuid: ef14a5c85e7b4efc93b47b7093b022ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712645615496
+status: 3
+tags: []
+user_id: sumyami
